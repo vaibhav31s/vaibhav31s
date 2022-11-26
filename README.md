@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav31s&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav31s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav31s" alt="vaibhav31s" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nzwx5wb0i7gphn62tcailclc7hlfodw9qywy1sfd&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Problem Solving](Leetcode.com/vaibhavgawad)
 
