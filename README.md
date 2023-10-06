@@ -1,8 +1,4 @@
-# 💫 About Me:
 I am student in final year ;)
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavgawad) 
 
 # 💻 Tech Stack:
@@ -10,8 +6,6 @@ I am student in final year ;)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vaibhav31s&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav31s&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav31s&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhav31s&icon=0&color=0)](https://visitcount.itsvg.in)
 
